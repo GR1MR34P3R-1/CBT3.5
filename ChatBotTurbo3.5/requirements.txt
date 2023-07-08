@@ -1,0 +1,8 @@
+discord
+discord.py
+configparser
+openai
+asyncio
+sqlite3
+datetime
+
