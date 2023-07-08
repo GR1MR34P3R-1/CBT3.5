@@ -5,7 +5,8 @@ CBT3.5 is an amazing program that utilizes the Discord API and the power of Chat
 Before you can run CBT3.5, make sure you have the following:
 
 Python installed on your system.
-Getting Started
+
+## Getting Started
 📥 Clone this repository to your local machine or download the source code.
 
 🔧 Install the required dependencies by running the following command:
