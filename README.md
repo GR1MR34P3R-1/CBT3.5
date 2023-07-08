@@ -16,6 +16,7 @@ Python installed on your system.
   📝 Create a file named config.ini in the same directory as the program file and replace the following placeholders:
 
 YOUR_DISCORD_BOT_TOKEN with your actual Discord bot token.
+
 YOUR_OPENAI_API_KEY with your actual OpenAI API key.
 
 🖥️ Open a terminal or command prompt and navigate to the directory where the program is located.
