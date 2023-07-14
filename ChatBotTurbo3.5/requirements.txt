@@ -1,5 +1,4 @@
 discord
-discord.py
 configparser
 openai
 asyncio
