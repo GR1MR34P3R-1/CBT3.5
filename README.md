@@ -11,12 +11,12 @@ Before you can run CBT3.5, make sure you have the following:
 1. Clone this repository to your local machine or download the source code. 📥
 
 2. Install the required dependencies by running the following command:
-pip install -r requirements.txt
+```pip install -r requirements.txt ```
 
-3. Run CBT3.5 using the following command:
-python3 main.py
+4. Run CBT3.5 using the following command:
+```python3 main.py```
 
-4. The bot should now be online and ready to respond to user messages in the specified Discord server. 🤖💬
+5. The bot should now be online and ready to respond to user messages in the specified Discord server. 🤖💬
 
 ## Features
 🔹 The bot listens for messages in a channel named "ask-anything" and responds using the power of ChatGPT 3.5 Turbo. 💡🎙️
