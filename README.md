@@ -1,5 +1,8 @@
 # CBT3.5 - ChatBotTurbo3.5 🚀
 
+![Python Version](https://img.shields.io/badge/Python-3.6%2B-blue.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 CBT3.5 is an amazing program that utilizes the Discord API and the power of ChatGPT 3.5 Turbo to create an interactive bot that can respond to user messages. 😮✨
 
 ## Prerequisites
